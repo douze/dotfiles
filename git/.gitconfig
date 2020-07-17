@@ -1,0 +1,18 @@
+[user]
+    name = douze
+    email = douze@users.noreply.github.com 
+[core]
+    editor = vim
+[color]
+    ui = auto
+[alias]
+    br = branch
+    ci = commit
+    cl = clone
+    co = checkout
+    cp = cherry-pick
+    pl = pull
+    ps = push
+    rb = rebase
+    rs = reset
+    st = status
